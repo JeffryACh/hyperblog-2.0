@@ -1,6 +1,19 @@
 body{
     text-align: center;
     font-family: "Arial";
-
+    margin: 0;
+    padding: 0;
     color: #1774ff;
+}
+
+#container{
+    width: 68%;
+    padding: 1em;
+    text-align: left;
+    border: 1.5px solid #0b7070;
+    margin: 0 auto;
+}
+
+#container h1{
+        font-size: 21px;
 }
